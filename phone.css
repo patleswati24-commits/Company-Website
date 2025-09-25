@@ -1,0 +1,21 @@
+@media screen and (max-width:991px){
+    .nav-toggle{
+        display: block;
+        margin-right: 20px;
+    }
+    ul{
+        display: none;
+    }
+    .offer{
+        gap:40px
+    }
+    .offer-descrp{
+        width: calc(50% - 10px);
+    }
+    .offer-items{
+        width: 50%;
+    }
+    .offer-descrp{
+        gap: 20px;
+    }
+}
